@@ -1,0 +1,12 @@
+doc/*
+*.DS_Store
+*.class
+*.classpath
+.settings/*
+.svn/*
+*.jar
+*.project
+uml/*
+target/*
+*.java.svn-base
+./**/.svn
